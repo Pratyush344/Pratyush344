@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about C++, NodeJS, MongoDB, ExpressJS
-- 📫 How to reach me: <a href="mailto:inspiredrishabh@gmail.com">Email Address</a>
+- 📫 How to reach me: <a href="mailto:pratyushsingh0220@gmail.com">Email Address</a>
 
 ## Check out my other accounts
 <a href="" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height=45 width=45> </a>
