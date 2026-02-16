@@ -50,7 +50,7 @@ I am a data-driven professional with hands-on experience in transforming raw dat
 ---
 
 ## 🌐 Professional Profiles
-<a href="https://www.linkedin.com/in/pratyush-singh-744882321/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/pratyush344/" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
 </a>
 <a href="https://github.com/Pratyush344" style="text-decoration: none;">
